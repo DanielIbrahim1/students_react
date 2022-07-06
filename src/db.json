@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "DBA",
+      "student": "Ibrahim"
+    },
+    {
+      "title": "QA",
+      "student": "jacob",
+      "id": 5
+    },
+    {
+      "student": "shelly",
+      "title": "ashkelon",
+      "id": 6
+    }
+  ]
+}
